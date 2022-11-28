@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sigit Suryono</h1>
-<h3 align="center">A Software Engineer at PT Lauwba Techno Indonesia and Founder of Surelabsid</h3>
+<h3 align="center">A Android IoT Developer at Chickin Indonesia, A Freelancer Software Engineer at PT Lauwba Techno Indonesia and Founder of Surelabsid</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sigitsuryono25&label=Profile%20views&color=0e19b4&style=plastic" alt="sigitsuryono25" /> </p>
 
