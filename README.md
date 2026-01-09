@@ -1,5 +1,5 @@
 
-# 👋 Yo, I'm Sigit Sur
+# 👋 Yo, I'm Sigit Suryono
 
 Mobile-first engineer.  
 Mostly Android & Flutter, tapi backend dan web masih gue pegang kuat. IOS? Baru mulai akrab.  
