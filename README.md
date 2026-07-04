@@ -58,6 +58,17 @@ Clean architecture enjoyer. Stability > hype.
 
 ---
 
+## 🤖 AI Tools
+
+![OpenCode](https://img.shields.io/badge/OpenCode-4B5563?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT Codex](https://img.shields.io/badge/ChatGPT-Codex-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+---
+
 
 ## 🚀 Philosophy
 
